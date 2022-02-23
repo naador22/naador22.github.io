@@ -1,7 +1,7 @@
 # Site settings
 title: Nayeem Ahamed
 description: Nayeem Ahamed
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "/naador22.github.io" # the subpath of your site, e.g. /blog
 url: "https://nayeemahamed.me" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
